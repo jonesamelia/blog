@@ -5,3 +5,17 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+  
+  .site-header, footer {
+    background-color: rgb(10, 201, 201);
+  }
+  .site-header{
+    font-variant: small-caps;
+  }
+
+
+  #mabelphoto {
+    outline: groove black;
+    height: 50%;
+    width: 50%;
+  }
