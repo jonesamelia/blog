@@ -9,4 +9,4 @@ I love cats!
 Here is one of my cats, Mabel.
 
 
-<img id="mabelphoto" src="/assets/img/mabel.jpg">
+<img id="mabelphoto" src="https://jonesamelia.github.io/blog/assets/img/mabel.jpg">
