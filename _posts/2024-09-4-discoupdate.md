@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Disco Tray Studios Update - August 3rd"
+title: "Disco Tray Studios Update - September 3rd"
 categories: misc
 author: Amelia Jones
 ---
